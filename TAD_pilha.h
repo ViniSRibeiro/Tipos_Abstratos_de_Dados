@@ -3,7 +3,7 @@
 //
 #include <stdio.h>
 #include <stdlib.h>
-#define MaxTam 1000;
+#define MaxTam [1000];
 #ifndef ESTUDOS_DE_AEDS_TAD_PILHA_H
 #define ESTUDOS_DE_AEDS_TAD_PILHA_H
 
@@ -19,8 +19,8 @@ typedef int Apontador;
 
 typedef struct Pilha{
     Apontador IEscanor;
-    Item_pilha item[MaxTam];
-}Tipo_pilha;
+    Item_pilha item [MaxTam];
+}Tipo_pilha
 
 void FPVazia(Tipo_pilha* pPilha);
 int PEhVazia(Tipo_pilha* pPilha);

@@ -76,6 +76,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/vinir/CLionProjects/Estudos_de_Aeds/TAD_fila.c">
+			<Option target="Estudos_de_Aeds"/>
+		</Unit>
+		<Unit filename="C:/Users/vinir/CLionProjects/Estudos_de_Aeds/TAD_fila.h">
+			<Option target="Estudos_de_Aeds"/>
+		</Unit>
 		<Unit filename="C:/Users/vinir/CLionProjects/Estudos_de_Aeds/TAD_pilha.c">
 			<Option target="Estudos_de_Aeds"/>
 		</Unit>

@@ -122,6 +122,33 @@ Estudos_de_Aeds/fast:
 	$(MAKE) -f CMakeFiles\Estudos_de_Aeds.dir\build.make CMakeFiles/Estudos_de_Aeds.dir/build
 .PHONY : Estudos_de_Aeds/fast
 
+TAD_fila.obj: TAD_fila.c.obj
+
+.PHONY : TAD_fila.obj
+
+# target to build an object file
+TAD_fila.c.obj:
+	$(MAKE) -f CMakeFiles\Estudos_de_Aeds.dir\build.make CMakeFiles/Estudos_de_Aeds.dir/TAD_fila.c.obj
+.PHONY : TAD_fila.c.obj
+
+TAD_fila.i: TAD_fila.c.i
+
+.PHONY : TAD_fila.i
+
+# target to preprocess a source file
+TAD_fila.c.i:
+	$(MAKE) -f CMakeFiles\Estudos_de_Aeds.dir\build.make CMakeFiles/Estudos_de_Aeds.dir/TAD_fila.c.i
+.PHONY : TAD_fila.c.i
+
+TAD_fila.s: TAD_fila.c.s
+
+.PHONY : TAD_fila.s
+
+# target to generate assembly for a file
+TAD_fila.c.s:
+	$(MAKE) -f CMakeFiles\Estudos_de_Aeds.dir\build.make CMakeFiles/Estudos_de_Aeds.dir/TAD_fila.c.s
+.PHONY : TAD_fila.c.s
+
 TAD_pilha.obj: TAD_pilha.c.obj
 
 .PHONY : TAD_pilha.obj
@@ -185,6 +212,9 @@ help:
 	@echo ... edit_cache
 	@echo ... Estudos_de_Aeds
 	@echo ... rebuild_cache
+	@echo ... TAD_fila.obj
+	@echo ... TAD_fila.i
+	@echo ... TAD_fila.s
 	@echo ... TAD_pilha.obj
 	@echo ... TAD_pilha.i
 	@echo ... TAD_pilha.s

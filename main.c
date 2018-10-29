@@ -1,8 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include "TAD_pilha.h"
-
-int main()
-{
+#include "TAD_fila.h"
+int main(){
     int qtd;
     Item_pilha item;
     Tipo_pilha pilha;
@@ -15,12 +15,12 @@ int main()
     for (int i = 0; i<qtd ; i++){
 
         printf("\nid:");
-        scanf("%d",&item.id);
+        scanf("%d",&item.ID);
 
         printf("\nNome:");
         scanf("%s",item.nome);
 
-        Empilha(&pilha,&item);
+        PEmpilha(&pilha,&item);
     }
     printf("\n------------------------------\n");
     PExibe(&pilha);
@@ -28,17 +28,17 @@ int main()
 
     qtd =0;
     printf("\ndigite quantos users deseja excluir:");
-    scanf("%d", &qtd);
+    scanf("%i",&qtd);
 
     for (int i = 0; i<qtd ; i++){
 
-        Desempilha(&pilha,&item);
+        PDesempilha()esempilha(&pilha,&item);
 
     }
 
 
     printf("\n------------------------------\n");
-    Exibe(&pilha);
+    PExibe(&pilha);
 
 
 
