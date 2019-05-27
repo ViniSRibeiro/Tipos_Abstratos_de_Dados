@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/vinir/CLionProjects/Estudos_de_Aeds/TAD_fila.c" "C:/Users/vinir/CLionProjects/Estudos_de_Aeds/cmake-build-debug/CMakeFiles/Estudos_de_Aeds.dir/TAD_fila.c.obj"
-  "C:/Users/vinir/CLionProjects/Estudos_de_Aeds/TAD_pilha.c" "C:/Users/vinir/CLionProjects/Estudos_de_Aeds/cmake-build-debug/CMakeFiles/Estudos_de_Aeds.dir/TAD_pilha.c.obj"
-  "C:/Users/vinir/CLionProjects/Estudos_de_Aeds/main.c" "C:/Users/vinir/CLionProjects/Estudos_de_Aeds/cmake-build-debug/CMakeFiles/Estudos_de_Aeds.dir/main.c.obj"
+  "C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/TAD_fila.c" "C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/cmake-build-debug/CMakeFiles/Estudos_de_Aeds.dir/TAD_fila.c.obj"
+  "C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/TAD_pilha.c" "C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/cmake-build-debug/CMakeFiles/Estudos_de_Aeds.dir/TAD_pilha.c.obj"
+  "C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/main.c" "C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/cmake-build-debug/CMakeFiles/Estudos_de_Aeds.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

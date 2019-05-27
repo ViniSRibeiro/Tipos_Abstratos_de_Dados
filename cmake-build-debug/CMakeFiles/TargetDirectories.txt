@@ -1,3 +1,3 @@
-C:/Users/vinir/CLionProjects/Estudos_de_Aeds/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/vinir/CLionProjects/Estudos_de_Aeds/cmake-build-debug/CMakeFiles/Estudos_de_Aeds.dir
-C:/Users/vinir/CLionProjects/Estudos_de_Aeds/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/cmake-build-debug/CMakeFiles/Estudos_de_Aeds.dir
+C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/cmake-build-debug/CMakeFiles/rebuild_cache.dir

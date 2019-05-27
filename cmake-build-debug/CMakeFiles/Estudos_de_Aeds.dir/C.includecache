@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/TAD_fila.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+TAD_fila.h
+C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/TAD_fila.h
+
+C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/TAD_fila.h
+
+C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/TAD_pilha.c
+stdio.h
+-
+stdlib.h
+-
+TAD_pilha.h
+C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/TAD_pilha.h
+
+C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/TAD_pilha.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/main.c
+stdio.h
+-
+stdlib.h
+-
+TAD_pilha.h
+C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/TAD_pilha.h
+TAD_fila.h
+C:/Users/vinir/Documents/Algoritmos/Estudos_de_Aeds/TAD_fila.h
+
